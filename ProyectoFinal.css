@@ -1,0 +1,149 @@
+header.logo{ 
+    margin: 0%;
+} 
+   
+body{
+    font-family:sans-serif;
+    margin: 0%;
+}
+
+#barra{
+    display: flex;
+    flex-direction: row;
+    border-radius: none;
+    margin-left: 800px;
+
+}
+
+.nosotros{
+    margin: 10px;
+}
+
+.Servicios{
+    margin: 10px;
+}
+
+.Fotos{
+    margin: 10px;
+}
+
+.Contacto{
+    margin: 10px;
+}
+
+header{
+    font-size: medium;
+    text-align: left;
+    background-image: url("campotractor.jpg");
+    height: 700px;
+    margin: 0%;
+    padding: 0%;
+}
+
+#titulo{
+    text-align: center;
+}
+
+h3{
+    font-size: large;
+    text-align: center;
+    font-style:oblique;
+
+}
+
+.texto{
+    text-align: justify left;
+    margin-left: 100px;
+    font-style: oblique;
+    padding-top: 200px;
+}
+
+.img1{
+    float: right;
+    clear: left;
+    }
+
+.texto2{
+    text-align: center;
+    margin: 20px;
+    padding: 10px;
+    }
+    
+.contenedor {
+    display: flex;
+    flex-direction: row;
+    text-transform: capitalize;
+
+}
+
+.c1{
+    text-align:center;
+    margin: 30px;
+    border: 2px;
+}
+
+.c2{
+    
+    padding: 30px;
+    text-align: center;
+    margin: 30px;
+    border: 2px;
+}
+
+.c3{
+    float: right;
+    padding: 50px;
+    text-align: center;
+    margin: 20px;
+    border: 2px;
+}
+
+
+.c4{
+    padding: 50px;
+    text-align: center;
+
+}
+.c5{
+    padding: 50px;
+    text-align: center;
+}
+
+.c6{
+    padding: 50px;
+    text-align: center;
+}
+
+.c7{
+    padding: 50px;
+    text-align: center;
+}
+
+.c8{
+    padding: 50px;
+    text-align: center;
+}
+
+
+.telefono{
+    margin: 20px;
+}
+
+.email{
+    margin: 40px;
+
+}
+
+.direccion{
+    margin: 60px
+
+}
+
+footer{
+    text-align: center;
+    font-family: cursive;
+}
+
+aside{
+    margin-left: 1155px;
+}

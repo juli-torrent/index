@@ -1,0 +1,129 @@
+body{
+    font-family:sans-serif;
+    margin: 0%;
+}
+
+#barra{
+    display: flex;
+    flex-direction: row;
+    border-radius: none;
+    margin-left: 800px;
+}
+
+.nosotros{
+    margin: 10px;
+}
+
+.Servicios{
+    margin: 10px;
+}
+
+.Integrantes{
+    margin: 10px;
+}
+
+.Contacto{
+    margin: 10px;
+}
+
+header{
+    font-size: medium;
+    text-align: left;
+    background-image: url("campotractor.jpg");
+    height: 700px;
+    margin: 0%;
+    padding: 0%;
+}
+
+#titulo{
+    text-align: center;
+}
+
+h3{
+    font: weight 150px;;
+    text-align: center;
+    font-style:oblique;
+}
+
+.texto{
+    text-align: justify left;
+    margin-left: 100px;
+    font-style: oblique;
+    padding-top: 200px;
+}
+
+.img1{
+    box-sizing: border-box;
+    float: right;
+    clear: left;
+}
+
+.video{
+       margin-left: 200px;
+}
+
+.noticia{
+        text-align: center;
+        margin-left: 200px;
+        font-style: oblique;
+}
+
+.texto2{
+    text-align: center;
+    margin-top: 100px;
+    padding: 10px;
+}
+
+.contact{
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    box-sizing: border-box; 
+    display: block;
+}
+
+.tabla{
+    border-width: 100px;
+}
+
+.telefono{
+    margin: 20px;
+    box-sizing: border-box;
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.email{
+    margin: 20px;
+    box-sizing: border-box;
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+    
+.direccion{
+    margin: 20px;
+    box-sizing: border-box;
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.inicio{
+    text-align: center;
+}
+
+footer{
+    background-color: steelblue;
+    text-align: center;
+    font-family: cursive;
+}
+
+aside{
+    margin-left: 1155px;
+}
